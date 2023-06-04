@@ -1,6 +1,7 @@
 <img width="90%" height="200px" align="center" style="border-radius: 10px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nzu5h1t0bletao0urazh6q9efc2q89nlprr5t4fw&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
 <h1 align="center" color="blue"> <code> 👨‍💻 Desarrollador Python 👨‍💻 </code> </h1>
-<h3 align="center">soy un desarrollador web apasionado</h3>
+
+- 📒 Interesado en **Desarrollo Web | IA **
 
 - 💬 Preguntame sobre **Python, Html, Css, Js, Django, Flask, ReactJs**
 
