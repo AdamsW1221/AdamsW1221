@@ -1,8 +1,8 @@
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nzu5h1t0bletao0urazh6q9efc2q89nlprr5t4fw&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
-<h1 align="center">BienVenido</h1>
+<img style="width: 89%; height: 200px; border-radius: 10px;" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nzu5h1t0bletao0urazh6q9efc2q89nlprr5t4fw&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
+<h1 align="center"> <code> Desarrollador Python </code> </h1>
 <h3 align="center">soy un desarrollador web apasionado</h3>
 
-- 💬 Preguntame sobre **python, html, css, js, django, flask, reactjs**
+- 💬 Preguntame sobre **Python, Html, Css, Js, Django, Flask, ReactJs**
 
 - 📫 Contactame **adamswever122132@gmail.com**
 
