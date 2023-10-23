@@ -1,5 +1,5 @@
 <img width="99%" height="200px" align="center" style="border-radius: 10px" src="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg" alt="">
-<h1 align="center" color="blue"> <code> 👨‍💻 Desarrollador Back-end 👨‍💻 </code> </h1>
+<h1 align="center" color="blue"> <code> 👨‍💻 Desarrollador Backend 👨‍💻 </code> </h1>
 
 - 📒 Interesado en **Desarrollo Web | IA**
 
