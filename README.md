@@ -1,95 +1,161 @@
-# Hi there, I'm Adams Wever 👋
+<div align="center">
+  <img src="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg" alt="Profile Banner" width="100%" />
+</div>
 
-<p align="left">
-  <a href="https://linkedin.com/in/adamsw1221" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:adamswever122132@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
 
-### 🚀 Full-Stack Developer | Backend Specialist & AI Enthusiast
+# Hi 👋, I'm Adams Wever
 
-[cite_start]Soy un desarrollador apasionado por crear soluciones robustas y escalables, con experiencia en el desarrollo de aplicaciones web completas utilizando **Python** y **JavaScript**[cite: 7, 8]. [cite_start]Actualmente me desempeño como **Desarrollador Full-stack en Precisa Group SRL**, donde me enfoco en la construcción de APIs de alto rendimiento, arquitecturas limpias y módulos de automatización[cite: 10, 11, 13, 15].
+### Full-Stack Developer
 
-- [cite_start]🔭 **Trabajando actualmente en:** Interfaces reactivas con **Next.js** y optimización de rendimiento en el backend[cite: 14].
-- 🧪 **Intereses:** Inteligencia Artificial, Visión Artificial (MediaPipe) y desarrollo de APIs escalables.
-- ⚡ **Meta actual:** Perfeccionar sistemas de IA integrados y evolucionar hacia roles de arquitectura técnica.
+<img src="https://github.com/AdamsW1221.png" alt="Adams Wever" width="150" height="150" style="border-radius: 50%;" />
+
+</div>
+
+## 🚀 About Me
+
+Desarrollador Full-Stack especializado en el ecosistema de Python y JavaScript. Mi enfoque principal es la construcción de APIs robustas bajo principios de arquitectura limpia y el desarrollo de interfaces modernas y eficientes. Me apasiona la intersección entre el desarrollo web y la Inteligencia Artificial, explorando constantemente nuevas formas de integrar Computer Vision en soluciones prácticas y escalables.
+
+## 📚 Learning & Knowledge
+
+<div align="left">
+
+- 🌱 I'm currently learning **🏗️ Arquitectura: Patrones de diseño y principios de Clean Architecture para software robusto.
+
+🐍 Backend Pro: Optimización avanzada, Docker y manejo de procesos asíncronos en Python.
+
+🌐 Frontend Moderno: Estado global avanzado y optimización de Core Web Vitals en Next.js.
+
+🤖 IA & Visión: Integración profunda de modelos de IA y procesamiento de datos en tiempo real.**
+
+</div>
+
+## 💼 Work Experience
+
+| Company | Position | Duration |
+|---|---|---|
+| Precisa SRL | Desarrollador Full-stack | 2024-06 - Present |
+
+### Desarrollador Full-stack at Precisa SRL
+Desarrollo y mantenimiento de APIs y endpoints escalables, alineados con estándares REST y principios de arquitectura limpia, tambien desarrollo frontend con Next.js, creando interfaces reactivas, optimizadas y centradas en rendimiento.
+
+**Technologies:** React, python, tailwindcss, nextJS, supabase, TypeScript, Javascript, Django, Flask, FastApi, prisma, Sql
+
+## 🚀 Projects
+
+| Project | Description | Links |
+|---|---|---|
+| Portfolio | Espacio digital donde presento mi trabajo y evolución como desarrollador. Este portafolio agrupa mis proyectos más destacados en desarrollo backend, frontend e Inteligencia Artificial |  |
+
+### Portfolio
+
+<img src="https://adams-portfolio-one.vercel.app/" alt="Portfolio" width="500"/>
+
+**Technologies Used:** React, tailwindcss, supabase
+
+## 🎓 Education
+
+| Institution | Degree | Duration |
+|---|---|---|
+| Instituto Tecnico Superior Comunitario | Tecnico Superior | 2020-01 - 2025-11 |
+| Instituto Tecnologico De Santo Domingo | Ingenieria | 2026-08 - 2028-08 |
+
+### Tecnico Superior in Desarrollo de Software
+*Instituto Tecnico Superior Comunitario*
+
+### Ingenieria in Ingenieria de Software
+*Instituto Tecnologico De Santo Domingo*
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **adamswever122132@gmail.com**
+- 👨‍💻 All of my projects are available at [https://adams-portfolio-one.vercel.app/](https://adams-portfolio-one.vercel.app/)
+- 📄 Know about my experiences [https://adams-portfolio-one.vercel.app/CV/cv-ES.pdf](https://adams-portfolio-one.vercel.app/CV/cv-ES.pdf)
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/adamsw1221)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 💻 Mobile App Development
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+### 💻 Frontend Development
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;&nbsp;&nbsp;![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### 💻 Backend Development
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 💻 AI/ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 💻 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 💻 Data Visualization
+
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### 💻 DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 💻 Backend as a Service (BaaS)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 💻 Framework
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;&nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 💻 Testing
+
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+
+### 💻 Software
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 💻 Other
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamsW1221&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsW1221&layout=compact&theme=dark&langs_count=10)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-      [cite_start]<br>Python [cite: 18]
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-      <br>JavaScript [cite: 19]
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
-      <br>FastAPI [cite: 27]
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" />
-      <br>Django [cite: 22]
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />
-      <br>Flask [cite: 25]
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
-      <br>Next.js [cite: 28]
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br>React [cite: 23]
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" />
-      <br>Tailwind [cite: 24]
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>SQL [cite: 21]
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
----
+**Thank you for visiting my profile! 😊**
 
-### 🌟 Featured Projects
+![Profile Views](https://komarev.com/ghpvc/?username=AdamsW1221&color=brightgreen&style=flat-square&label=Profile+Views)
 
-| Proyecto | Descripción | Tech Stack |
-| :--- | :--- | :--- |
-| **TaskNavigator** | Gestión de tareas con Django Rest Framework y ReactJs. | `Django REST`, `React` |
-| **ChatbotIA** | Chat bot integrado con la API de OpenAI. | `Python`, `OpenAI` |
-| **Lumira-AI** | Interacción gestual mediante Computer Vision y MediaPipe. | `FastAPI`, `MediaPipe` |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamsW1221&show_icons=true&theme=tokyonight&hide_border=true" alt="Adams GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsW1221&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>"La claridad del código es la cortesía del programador hacia sus colegas."</i>
-</p>
+</div>
