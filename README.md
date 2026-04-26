@@ -1,18 +1,95 @@
-<img width="99%" height="200px" align="center" style="border-radius: 10px" src="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg" alt="">
-<h1 align="center" color="blue"> <code> 👨‍💻 Desarrollador Backend 👨‍💻 </code> </h1>
+# Hi there, I'm Adams Wever 👋
 
-- 📒 Interesado en **Desarrollo Web | IA**
-
-- 💬 Preguntame sobre **Python, Html, Css, Js, Django, Flask, ReactJs**
-
-- 📫 Contactame **adamswever122132@gmail.com**
-
-<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adamsw1221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamsw1221" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/adamsw1221" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:adamswever122132@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<h3 align="left">Estadistica:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=adamsW1221&show_icons=true&theme=radical">
+### 🚀 Full-Stack Developer | Backend Specialist & AI Enthusiast
+
+[cite_start]Soy un desarrollador apasionado por crear soluciones robustas y escalables, con experiencia en el desarrollo de aplicaciones web completas utilizando **Python** y **JavaScript**[cite: 7, 8]. [cite_start]Actualmente me desempeño como **Desarrollador Full-stack en Precisa Group SRL**, donde me enfoco en la construcción de APIs de alto rendimiento, arquitecturas limpias y módulos de automatización[cite: 10, 11, 13, 15].
+
+- [cite_start]🔭 **Trabajando actualmente en:** Interfaces reactivas con **Next.js** y optimización de rendimiento en el backend[cite: 14].
+- 🧪 **Intereses:** Inteligencia Artificial, Visión Artificial (MediaPipe) y desarrollo de APIs escalables.
+- ⚡ **Meta actual:** Perfeccionar sistemas de IA integrados y evolucionar hacia roles de arquitectura técnica.
+
+---
+
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      [cite_start]<br>Python [cite: 18]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript [cite: 19]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
+      <br>FastAPI [cite: 27]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" />
+      <br>Django [cite: 22]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />
+      <br>Flask [cite: 25]
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+      <br>Next.js [cite: 28]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React [cite: 23]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" />
+      <br>Tailwind [cite: 24]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>SQL [cite: 21]
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Projects
+
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **TaskNavigator** | Gestión de tareas con Django Rest Framework y ReactJs. | `Django REST`, `React` |
+| **ChatbotIA** | Chat bot integrado con la API de OpenAI. | `Python`, `OpenAI` |
+| **Lumira-AI** | Interacción gestual mediante Computer Vision y MediaPipe. | `FastAPI`, `MediaPipe` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdamsW1221&show_icons=true&theme=tokyonight&hide_border=true" alt="Adams GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsW1221&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>"La claridad del código es la cortesía del programador hacia sus colegas."</i>
+</p>
