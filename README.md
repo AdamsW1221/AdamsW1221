@@ -6,9 +6,7 @@
 
 # Hi 👋, I'm Adams Wever
 
-### Full-Stack Developer
-
-<img src="https://github.com/AdamsW1221.png" alt="Adams Wever" width="150" height="150" style="border-radius: 50%;" />
+### Desarrollador Full-Stack
 
 </div>
 
@@ -47,10 +45,6 @@ Desarrollo y mantenimiento de APIs y endpoints escalables, alineados con estánd
 |---|---|---|
 | Portfolio | Espacio digital donde presento mi trabajo y evolución como desarrollador. Este portafolio agrupa mis proyectos más destacados en desarrollo backend, frontend e Inteligencia Artificial |  |
 
-### Portfolio
-
-<img src="https://adams-portfolio-one.vercel.app/" alt="Portfolio" width="500"/>
-
 **Technologies Used:** React, tailwindcss, supabase
 
 ## 🎓 Education
@@ -60,10 +54,10 @@ Desarrollo y mantenimiento de APIs y endpoints escalables, alineados con estánd
 | Instituto Tecnico Superior Comunitario | Tecnico Superior | 2020-01 - 2025-11 |
 | Instituto Tecnologico De Santo Domingo | Ingenieria | 2026-08 - 2028-08 |
 
-### Tecnico Superior in Desarrollo de Software
+### Tecnico Superior En Desarrollo de Software
 *Instituto Tecnico Superior Comunitario*
 
-### Ingenieria in Ingenieria de Software
+### Ingenieria En Software
 *Instituto Tecnologico De Santo Domingo*
 
 ## 📞 Contact & Links
