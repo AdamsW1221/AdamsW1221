@@ -30,7 +30,7 @@
     <rect x="95" y="0" width="160" height="24" rx="12" fill="#108981"/>
     <text x="175" y="16" fill="#FFFFFF" font-size="12" font-weight="bold" text-anchor="middle">@AdamsW1221</text>
     
-    <!-- Info Rows with Dotted Leaders & locked textLength -->
+    <!-- Info Rows with Dotted Leaders &amp; locked textLength -->
     <g transform="translate(0, 50)">
       <text x="0" y="20" textLength="100" lengthAdjust="spacingAndGlyphs">Subject</text>
       <text x="100" y="20"> ................................................. </text>
@@ -50,7 +50,7 @@
 
       <text x="0" y="140" textLength="100" lengthAdjust="spacingAndGlyphs">Status</text>
       <text x="100" y="140"> ................................................. </text>
-      <text x="450" y="140" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs">Building, Learning & Shipping</text>
+      <text x="450" y="140" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs">Building, Learning &amp; Shipping</text>
 
       <text x="0" y="170" textLength="100" lengthAdjust="spacingAndGlyphs">ToolChain</text>
       <text x="100" y="170"> ................................................. </text>
