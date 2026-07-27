@@ -13,8 +13,8 @@
 
 <!-- Streak — full width -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AdamsW1221&theme=dark&hide_border=true" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=AdamsW1221&theme=default&hide_border=true" alt="Adams' streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AdamsW1221&theme=dark&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsW1221&theme=default&hide_border=true" alt="Adams' streak" />
 </picture>
 
 <br/>
