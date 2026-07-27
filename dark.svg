@@ -1098,7 +1098,7 @@
 <path d="M 422 576 L 436 576 L 436 562" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8" />
 <text x="470" y="106" font-size="13" letter-spacing="2" fill="#22D3EE" filter="url(#txtGlow)">SYSTEM.INFO</text>
 <line x1="566" y1="102" x2="1061" y2="102" stroke="rgba(255,255,255,0.10)" />
-<text x="1125" y="106" text-anchor="end" font-size="12" fill="#F87171" font-weight="700"><tspan>ΓùÅ</tspan> LIVE<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite" /></text>
+<text x="1125" y="106" text-anchor="end" font-size="12" fill="#F87171" font-weight="700"><tspan>ΓùÅ</tspan> • LIVE <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite" /></text>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze" />
 <rect x="470" y="122" width="245" height="20" rx="4" fill="#4C1D95" />
 <text x="479" y="136" font-size="14" font-weight="700" fill="#E9D5FF">adamswever122132@gmail.com</text>
@@ -1121,7 +1121,7 @@
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.78s" fill="freeze" /><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.78s" fill="freeze" /><text x="470" y="500" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.LinkedIn </tspan><tspan fill="rgba(148,163,184,0.35)"> ....................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> adamsw1221</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.90s" fill="freeze" /><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.90s" fill="freeze" /><text x="470" y="523" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.GitHub </tspan><tspan fill="rgba(148,163,184,0.35)">.........................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> @AdamsW1221</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.34s" fill="freeze" />
-<text x="470" y="577" font-size="14" fill="#94A3B8">Γû╕ More about me &amp; projects below in README Γåô <tspan fill="#22D3EE">Γûê<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite" /></tspan></text>
+<text x="470" y="577" font-size="14" fill="#94A3B8"> ► More about me &amp; projects below in README ↓ <tspan fill="#22D3EE">ê<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite" /></tspan></text>
 </g>
 </g>
 <rect x="3" y="3" width="1174" height="604" rx="17" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.55" filter="url(#glow8)" />
