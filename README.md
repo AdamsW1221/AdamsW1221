@@ -1,8 +1,8 @@
 # Hi there, I'm Adams 👋
 
 <div align="center">
-  <img src="./dark.svg#gh-dark-mode-only" alt="Adams Profile Banner Dark" width="100%">
-  <img src="./light.svg#gh-light-mode-only" alt="Adams Profile Banner Light" width="100%">
+  <img src="dark.svg#gh-dark-mode-only" alt="Adams Profile Banner Dark" width="100%">
+  <img src="light.svg#gh-light-mode-only" alt="Adams Profile Banner Light" width="100%">
 </div>
 
 ---
