@@ -54,6 +54,10 @@
   <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adamsw1221/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A101F" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
 <a href="mailto:adamswever122132@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
