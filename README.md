@@ -1,11 +1,10 @@
 # Hi there, I'm Adams 👋
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Adams Profile Banner" src="dark.svg" width="100%">
-  </picture>
+  <a href="https://github.com/AdamsW1221">
+    <img src="https://raw.githubusercontent.com/AdamsW1221/AdamsW1221/main/dark.svg#gh-dark-mode-only" alt="Adams Profile Banner Dark" width="100%">
+    <img src="https://raw.githubusercontent.com/AdamsW1221/AdamsW1221/main/light.svg#gh-light-mode-only" alt="Adams Profile Banner Light" width="100%">
+  </a>
 </p>
 
 ---
