@@ -1,11 +1,9 @@
 # Hi there, I'm Adams 👋
 
-<p align="center">
-  <a href="https://github.com/AdamsW1221">
-    <img src="https://raw.githubusercontent.com/AdamsW1221/AdamsW1221/main/dark.svg#gh-dark-mode-only" alt="Adams Profile Banner Dark" width="100%">
-    <img src="https://raw.githubusercontent.com/AdamsW1221/AdamsW1221/main/light.svg#gh-light-mode-only" alt="Adams Profile Banner Light" width="100%">
-  </a>
-</p>
+<div align="center">
+  <img src="./dark.svg#gh-dark-mode-only" alt="Adams Profile Banner Dark" width="100%">
+  <img src="./light.svg#gh-light-mode-only" alt="Adams Profile Banner Light" width="100%">
+</div>
 
 ---
 
